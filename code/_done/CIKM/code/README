@@ -1,0 +1,7 @@
+Rename _aux.hpp and _aux.cpp in include/ and lib/ to aux.hpp and aux.cpp
+Requires Indri 5.7 or higher
+Can be compiled by typing: make -f DFR.app
+
+Casper Petersen
+cazz@di.ku.dk
+Copyright 2016

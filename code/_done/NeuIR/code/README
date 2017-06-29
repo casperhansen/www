@@ -1,0 +1,9 @@
+Requires commons-io.2.4 or higher
+Requires commons-compress-1.11 or higher
+
+The main file is ParseTrecResultFile.java
+
+
+Casper Petersen
+cazz@di.ku.dk
+Copyright 2016

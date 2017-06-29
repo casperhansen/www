@@ -1,0 +1,16 @@
+@article{DBLP:journals/tois/PetersenSL16,
+  author    = {Casper Petersen and
+               Jakob Grue Simonsen and
+               Christina Lioma},
+  title     = {Power Law Distributions in Information Retrieval},
+  journal   = {{ACM} Trans. Inf. Syst.},
+  volume    = {34},
+  number    = {2},
+  pages     = {8},
+  year      = {2016},
+  url       = {http://doi.acm.org/10.1145/2816815},
+  doi       = {10.1145/2816815},
+  timestamp = {Sun, 08 May 2016 19:29:06 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/tois/PetersenSL16},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}

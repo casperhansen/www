@@ -1,0 +1,8 @@
+Rename the _aux.cpp and _aux.hpp in include/ to aux.cpp and aux.hpp
+Requires the static SYMPHONY solver libraries
+Requires Indri 5.7 or higher
+Can be compiled by typing: make -f SYMPHONY.app
+
+Casper Petersen
+cazz@di.ku.dk
+Copyright 2016

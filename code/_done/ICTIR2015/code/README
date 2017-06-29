@@ -1,0 +1,12 @@
+ictir2015-release.zip:
+
+Requires Jung2_2 or higher. 
+Requires commons-io.2.4 or higher.
+Requires (potentially) opencsv.2-3
+
+pos-tagging.zip:
+Parses and POS tags WARC HTML files
+
+Casper Petersen
+cazz@di.ku.dk
+Copyright 2016
