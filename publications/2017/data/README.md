@@ -2,9 +2,9 @@ The Project
 ===========
 This dataset was developed at the department of Computer Science at the University of Copenhagen (DIKU) in connection with the following article:
 
-Evaluation Measures for Relevance and Credibility in Ranked Lists  
+_Evaluation Measures for Relevance and Credibility in Ranked Lists_  
 Christina Lioma, Jakob Grue Simonsen, and Birger Larsen (2017)  
-ACM SIGIR International Conference on the Theory of Information Retrieval, In press.
+ACM SIGIR International Conference on the Theory of Information Retrieval, _In press_.
 
 
 The Data
