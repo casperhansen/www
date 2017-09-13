@@ -1,7 +1,0 @@
-AuthUserFile /var/www/html/www/.htpasswd
-AuthType Basic
-AuthName "My Secret Folder"
-
-<Files "meetings.html">
-  Require valid-user
-</Files>
